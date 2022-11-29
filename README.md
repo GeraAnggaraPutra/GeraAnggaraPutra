@@ -9,4 +9,3 @@
 - 📫 How to reach me: ig: g_raap1
 - 😄 Pronouns: Gera
 - ⚡ Fun fact: i am very interested in programming
--->
