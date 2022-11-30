@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with learning
 - 💬 Ask me about programming
-- 📫 How to reach me: ig: g_raap1
+- 📫 How to reach me: ig : g_raap1
 - 😄 Pronouns: Gera
 - ⚡ Fun fact: i am very interested in programming
 
