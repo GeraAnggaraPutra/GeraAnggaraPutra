@@ -15,7 +15,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraAnggaraPutra&layout=compact" height=170/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=GeraAnggaraPutra&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width=440/></td>
   </tr>
-  <tr colspan="2">
+  <tr collspan="2">
     <td style="text-align: center"><img src="https://komarev.com/ghpvc/?username=GeraAnggaraPutra&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /></td>
   </tr>
 </table>
