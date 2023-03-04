@@ -17,13 +17,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bangcoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bangcoffee" /></a><a href="https://ko-fi.com/bangcoffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bangcoffee" /></a></p><br><br>
 
-
-<table style="margin-top: 15px;">
-  <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraanggaraputra&" alt="geraanggaraputra" height="170"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraAnggaraPutra&layout=compact" height="170"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=GeraAnggaraPutra&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="431"/></td>
-  </tr>
-</table>
