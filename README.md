@@ -2,10 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geraanggaraputra&label=Profile%20views&color=0e75b6&style=flat" alt="geraanggaraputra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/-profile-trophy">
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right">
+<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/geraanggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="geraanggara" height="30" width="40" /></a>
 <a href="https://twitter.com/bg_gd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bg_gd1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gera" height="30" width="40" /></a>
 <a href="https://instagram.com/g_raap1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_raap1" height="30" width="40" /></a>
