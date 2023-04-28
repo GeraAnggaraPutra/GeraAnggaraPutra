@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 Find out more about me & feel free to connect with me here
 
-[![Linkedin Badge](https://img.shields.io/badge/-GeraAnggaraPutra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/geraanggaraputra/)](https://www.linkedin.com/in/gera-anggara-putra-14a590272/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gera_Anggara_Putra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/geraanggaraputra/)](https://www.linkedin.com/in/gera-anggara-putra-14a590272/)
 [![Instagram Badge](https://img.shields.io/badge/-g_raap1-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/g_raap1/)](https://instagram.com/g_raap1)
 [![Gmail Badge](https://img.shields.io/badge/-anggaragera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anggaragera@gmail.com)](mailto:anggaragera@gmail.com)
 </p>
