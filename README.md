@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+There+!;I'm+Gera+Anggara+Putra+;Let's+Follow+EachOther;Happy+Coding;)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geraanggaraputra&label=Profile%20views&color=0e75b6&style=flat" alt="geraanggaraputra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geraanggaraputra&label=Profile%20views&color=0e75b6&style=flat" alt="geraanggaraputra" /> <br> 
+<a href="https://alwaysngoding.com/sertifikat/c2VydGlmaWthdC0xMDY2">CSS Certificate</a> || 
+<a href="https://alwaysngoding.com/sertifikat/c2VydGlmaWthdC05ODM">HTML Certificate</a>
+</p>
 
 <p align="left">
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
