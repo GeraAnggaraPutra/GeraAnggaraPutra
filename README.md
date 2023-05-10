@@ -25,7 +25,4 @@ Find out more about me & feel free to connect with me here
 
 [![Gera Anggara's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=geraanggaraputra&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Lifestyle
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
-
 <img src="https://github.com/GeraAnggaraPutra/GeraAnggaraPutra/blob/output/github-contribution-grid-snake.gif"/>
