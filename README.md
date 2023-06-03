@@ -19,8 +19,8 @@ Find out more about me & feel free to connect with me here
 
 <br/>
 
-### Github Activity Graph
+<!-- ### Github Activity Graph
 
 [![Gera Anggara's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=geraanggaraputra&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
 <img src="https://github.com/GeraAnggaraPutra/GeraAnggaraPutra/blob/output/github-contribution-grid-snake.gif"/>
