@@ -21,9 +21,9 @@ Find out more about me & feel free to connect with me here
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
-<a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"> 
+<center><a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"> 
 <img src="https://echo.labstack.com/img/logo-dark.svg" alt="echo" width="75" height="75"/> 
-</a>
+</a></center>
 </p>
 
 <br/>
