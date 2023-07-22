@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geraanggaraputra&label=Profile%20views&color=0e75b6&style=flat" alt="geraanggaraputra" />
 </p>
 
-<p align="left">
+<p>
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 Find out more about me & feel free to connect with me here
 
@@ -21,9 +21,9 @@ Find out more about me & feel free to connect with me here
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
-<center><a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"> 
-<img src="https://echo.labstack.com/img/logo-dark.svg" alt="echo" width="75" height="75"/> 
-</a></center>
+<a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"> 
+<img src="https://echo.labstack.com/img/logo-dark.svg" alt="echo" width="74" height="75"/> 
+</a>
 </p>
 
 <br/>
