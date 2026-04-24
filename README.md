@@ -9,13 +9,13 @@
 Find out more about me & feel free to connect with me here:
 
 <a href="https://www.linkedin.com/in/gera-anggara-putra">
-  <img src="https://img.shields.io/badge/-Gera%20Anggara%20Putra-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/anggaragera">
-  <img src="https://img.shields.io/badge/-anggaragera-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="mailto:anggaragera@gmail.com">
-  <img src="https://img.shields.io/badge/-anggaragera@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </td>
