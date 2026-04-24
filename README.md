@@ -29,7 +29,7 @@ Find out more about me & feel free to connect with me here:
 
 <br />
 
-### Languages, Frameworks and Databases
+### Backend Stack & Tools
 
 <table>
   <tr>
