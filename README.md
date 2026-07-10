@@ -40,7 +40,7 @@ Find out more about me & feel free to connect with me here:
     </td>
     <td align="center" width="70">
       <a href="https://echo.labstack.com/" target="_blank">
-        <img src="https://echo.labstack.com/img/logo-dark.svg" alt="Echo" width="45" height="45" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YzVz6fbB3LavTDUZcIKs9qYvPKXbZWfjJ8x6C_3eeQ&s" alt="Echo" width="45" height="45" />
       </a>
     </td>
     <td align="center" width="70">
